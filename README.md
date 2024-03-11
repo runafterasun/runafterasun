@@ -9,7 +9,7 @@
  ✌️ &emsp; Enjoy to do programming<br>
  ❤️ &emsp; Love to writing code and learning new features<br>
  📧 &emsp; Reach me anytime: runafterasun@gmail.com<br>
- 💬 &emsp; Ask me about anything [here](https://t.me/runafterasun)
+ 💬 &emsp; Ask me about anything <a href="https://t.me/runafterasun" target="_blank"> in telegram</a>
 </p><br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=runafterasun&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
